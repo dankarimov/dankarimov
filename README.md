@@ -19,7 +19,7 @@ I'm a front-end developer. I design and develop web-apps and websites.
 <img alt="work example" width="600px" src="https://github.com/dankarimov/dankarimov/blob/main/1.jpg" />
 
 <details>
-  <summary>See other works</summary>
+  <summary>See other work</summary>
   <img src="https://github.com/dankarimov/dankarimov/blob/main/1.1.jpg">
   <hr/>
   <img src="https://github.com/dankarimov/dankarimov/blob/main/2.jpg">
