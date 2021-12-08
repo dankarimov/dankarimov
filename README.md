@@ -17,3 +17,17 @@ I'm a front-end developer. I design and develop web-apps and websites.
 
 #### Examples of work
 <img alt="work example" width="600px" src="https://github.com/dankarimov/dankarimov/blob/main/1.jpg" />
+
+<details>
+  <summary>See other works</summary>
+  <img src="https://github.com/dankarimov/dankarimov/blob/main/1.1.jpg">
+  <img src="https://github.com/dankarimov/dankarimov/blob/main/2.jpg">
+  <img src="https://github.com/dankarimov/dankarimov/blob/main/3.jpg">
+  <img src="https://github.com/dankarimov/dankarimov/blob/main/4.jpg">
+  <img src="https://github.com/dankarimov/dankarimov/blob/main/5.jpg">
+  <img src="https://github.com/dankarimov/dankarimov/blob/main/6.jpg">
+  <img src="https://github.com/dankarimov/dankarimov/blob/main/7.jpg">
+  <img src="https://github.com/dankarimov/dankarimov/blob/main/8.jpg">
+  <img src="https://github.com/dankarimov/dankarimov/blob/main/9.jpg">
+  <img src="https://github.com/dankarimov/dankarimov/blob/main/10.jpg">
+</details>
