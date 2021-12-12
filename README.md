@@ -1,7 +1,7 @@
 ## Hi, I'm Dan Karimov 👋
 ### Front-end Developer | Javascript Developer
 
-I'm a front-end developer. I design and develop web-apps and websites.
+I love to create and enjoy building a product from ground zero.
 
 #### Skills And Experience
 <img align="left" alt="HTML" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
