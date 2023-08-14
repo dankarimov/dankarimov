@@ -1,7 +1,9 @@
 ## Hi, I'm Dan Karimov 👋
 ### Front-end Developer | Javascript Developer
 
-I love to create and enjoy building a product from ground zero.
+- 🧡 I love to create and enjoy building a product from ground zero.
+- 🔭 Currently diving in to Next.js 13.
+- 📬 How to reach me: [LinkedIn](https://linkedin.com/)
 
 #### Skills And Experience
 <img align="left" alt="HTML" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
