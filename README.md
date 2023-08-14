@@ -1,5 +1,5 @@
 ## Hi, I'm Dan Karimov 👋
-### Front-end Developer | Javascript Developer
+### Front-end Developer | Javascript Developer | React Developer
 
 - 🧡 I love to create and enjoy building a product from ground zero.
 - 🔭 Currently diving in to Next.js 13.
