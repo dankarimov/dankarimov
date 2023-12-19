@@ -2,8 +2,8 @@
 ### Front-end Developer | Javascript Developer | React Developer
 
 - 🧡 I love to create and enjoy building a product from ground zero.
-- 🔭 Currently diving in to Next.js 13.
-- 📬 How to reach me: [LinkedIn](https://linkedin.com/)
+- 🔭 Currently diving in to Next.js 14.
+- 📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/dan-karimov-555dk/)
 
 #### Skills And Experience
 <img align="left" alt="HTML" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
