@@ -17,6 +17,7 @@
 <img align="left" alt="Gatsby" width="30px" src="https://github.com/gatsbyjs.png?size=40"/>
 <img align="left" alt="Nextjs" width="30px" src="https://github.com/nextjs.png?size=40"/>
 <img align="left" alt="Prisma" width="30px" src="https://avatars.githubusercontent.com/u/17219288?s=48&v=4"/>
+<img align="left" alt="Postgres" width="30px" src="https://github.com/postgres.png?size=40"/>
 <br/>
 
 #### Examples Of Work
