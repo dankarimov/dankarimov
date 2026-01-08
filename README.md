@@ -1,5 +1,5 @@
 ## Hi, I'm Dan Karimov 👋
-### Full-stack Developer | Front-end Developer | React Developer
+### Product Engineer | Full-stack Developer | React Developer
 
 - 🧡 I love to create and enjoy building a product from ground zero.
 - 🔭 Currently diving in to Next.js 16.
